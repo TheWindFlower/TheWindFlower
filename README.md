@@ -1,5 +1,8 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=TheWindFLower&show_icons=true&hide_border=true&theme=tokyonight">
 
+### Hi there 👋 I'm TheWindFlower
+
+- student in CS 🖥️
 <!--
 **TheWindFlower/TheWindFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
