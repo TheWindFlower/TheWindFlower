@@ -3,6 +3,7 @@
 ### Hi there 👋 I'm TheWindFlower
 
 - student in CS 🖥️
+- the stats look bad as i mostly work on private repositories 🤷
 <!--
 **TheWindFlower/TheWindFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
