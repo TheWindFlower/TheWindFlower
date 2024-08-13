@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TheWindFLower&show_icons=true&hide_border=true&theme=tokyonight">
 
-### Hi there 👋 I'm TheWindFlower
+### Hi there 👋 I'm rFlower
 
 - CS student 🖥️
 - the stats look bad as I mostly work on private repositories 🤷
