@@ -46,22 +46,22 @@
 ### 🛠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter?style=for-the-badge&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge?logo=css&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
 ### ⚙️ Frameworks & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge?logo=tmux&logoColor=fff)
 ---
 
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge?logo=debian&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge?logo=neovim&logoColor=fff)
 ---
 
 <!-- ======================================== -->
