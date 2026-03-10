@@ -6,7 +6,7 @@
 <h3 align="center">YOUR_TAGLINE (e.g. Full Stack Developer | Cybersecurity Enthusiast)</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TheWindFlower">
     <img src="https://komarev.com/ghpvc/?username=TheWindFlower&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
