@@ -18,12 +18,9 @@
 <!-- ======================================== -->
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **YOUR_PROJECT**
-- 🌱 I’m currently learning **TECHNOLOGIES**
-- 👯 I’m looking to collaborate on **PROJECT TYPES**
-- 💬 Ask me about **TOPICS**
-- 📫 Reach me at **YOUR_EMAIL**
-- ⚡ Fun fact: **FUN_FACT**
+- 🔭 I’m currently working on **a flutter app**
+- 🌱 I’m currently learning **GLSL**
+- 📫 Reach me at **camille.petrou@gmail.com**
 
 ---
 
@@ -72,28 +69,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheWindFlower&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWindFlower&theme=tokyonight" />
-</p>
-
----
-
-<!-- ======================================== -->
-<!--            TOP LANGUAGES                -->
-<!-- ======================================== -->
-
-### 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindFlower&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- ======================================== -->
-<!--            TROPHIES (OPTIONAL)          -->
-<!-- ======================================== -->
-
-### 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheWindFlower&theme=onedark" />
 </p>
 
 ---
