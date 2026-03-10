@@ -2,8 +2,8 @@
 <!--            PROFILE HEADER               -->
 <!-- ======================================== -->
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">YOUR_TAGLINE (e.g. Full Stack Developer | Cybersecurity Enthusiast)</h3>
+<h1 align="center">Hi 👋, I'm Camille</h1>
+<h3 align="center">CS Student</h3>
 
 <p align="center">
   <a href="https://github.com/TheWindFlower">
@@ -33,18 +33,9 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
+<a href="www.linkedin.com/in/camille-petrou-835331324" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="https://twitter.com/YOUR_LINK" target="blank">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
-</a>
-
-<a href="https://portfolio.com" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox" />
-</a>
-</p>
 
 ---
 
@@ -54,24 +45,23 @@
 
 ### 🛠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
 ### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
 ---
 
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ---
 
 <!-- ======================================== -->
