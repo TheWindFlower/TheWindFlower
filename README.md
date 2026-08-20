@@ -21,8 +21,9 @@
 - 🔭 I’m currently working on **3d Vulkan renderer**
 - 🌱 I’m currently learning **Vulkan**
 - 📫 Reach me at **camille.petrou@gmail.com**
-- 💼 ![Portfolio](https://thewindflower.github.io/) 
-
+<p align="center">
+- 💼 From <a href="https://thewindflower.github.io/">Portfolio</a>
+</p>
 ---
 
 <!-- ======================================== -->
