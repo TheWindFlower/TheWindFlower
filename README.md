@@ -18,8 +18,8 @@
 <!-- ======================================== -->
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **3d Vulkan renderer**
-- 🌱 I’m currently learning **Vulkan**
+- 🔭 I’m currently working on **CTF skills**
+- 🌱 I’m currently learning **Cybersercurity**
 - 📫 Reach me at **camille.petrou@gmail.com**
 - 💼 check my [Portfolio](https://thewindflower.github.io)
 ---
