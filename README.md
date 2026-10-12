@@ -35,7 +35,7 @@
 </a>
 <p align="left">
 <a href="https://github.com/TheWindFlower/" target="blank">
-<img src="ttps://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 
