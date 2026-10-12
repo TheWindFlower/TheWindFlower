@@ -33,6 +33,11 @@
 <a href="www.linkedin.com/in/camille-petrou-835331324" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
+<p align="left">
+<a href="https://github.com/TheWindFlower/" target="blank">
+<img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=linkedin" />
+</a>
+
 
 ---
 
